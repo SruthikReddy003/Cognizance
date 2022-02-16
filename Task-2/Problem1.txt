@@ -1,14 +1,15 @@
-Qn:-To check weather the given number is divisible by 3 or not without using "%" function?
+Divisiblity of a Number(N) by 3 without using modulus operator explicitly
 
- if "3 or it's multiplies"
-  
-   print responce 
-     
-      "true"
- 
- if "any other number"
-  
-   print responce  
+Import the scanner class  
+Initialize N to 0
+Make an object sc for Scannerclass as a System input
+Make the object sc to scan N as an integer
 
-      "false"
+While N is greater than 0
+	Subtract 3 from N
+  if N is equal to zero
+	print "True"
+  else
+	print "False" 
+
 
