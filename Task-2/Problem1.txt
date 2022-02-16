@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Divisiblity of a Number(num) by 3 without using modulus operator explicitly
 
 Import the scanner class  
@@ -8,6 +9,17 @@ Make the object sc to scan num as an integer
 While num is greater than 0
 	Subtract 3 from num
   if num is equal to zero
+=======
+Divisiblity of a Number(N) by 3 without using modulus operator explicitly
+
+Import the scanner class  
+Make an object scn for Scannerclass as a System input
+Make the object scn to scan N as an integer
+
+While N is greater than 0
+	Subtract 3 from N
+  if N is equal to zero
+>>>>>>> master
 	print "True"
   else
 	print "False" 
