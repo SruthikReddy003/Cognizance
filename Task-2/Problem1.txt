@@ -2,9 +2,13 @@ Qn:-To check weather the given number is divisible by 3 or not?
 
  if "3 or it's multiplies"
   
-   print responce "true"
+   print responce 
+     
+      "true"
  
  if "any other number"
   
-   print responce "false"
+   print responce  
+
+      "false"
 
