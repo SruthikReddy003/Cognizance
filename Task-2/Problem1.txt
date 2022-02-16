@@ -1,4 +1,4 @@
-Qn:-To check weather the given number is divisible by 3 or not?
+Qn:-To check weather the given number is divisible by 3 or not without using "%" function?
 
  if "3 or it's multiplies"
   
