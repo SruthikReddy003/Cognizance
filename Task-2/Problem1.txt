@@ -1,7 +1,6 @@
 Divisiblity of a Number(N) by 3 without using modulus operator explicitly
 
 Import the scanner class  
-Initialize N to 0
 Make an object sc for Scannerclass as a System input
 Make the object sc to scan N as an integer
 
