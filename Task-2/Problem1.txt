@@ -1,8 +1,8 @@
 Divisiblity of a Number(N) by 3 without using modulus operator explicitly
 
 Import the scanner class  
-Make an object sc for Scannerclass as a System input
-Make the object sc to scan N as an integer
+Make an object scn for Scannerclass as a System input
+Make the object scn to scan N as an integer
 
 While N is greater than 0
 	Subtract 3 from N
