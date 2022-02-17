@@ -1,30 +1,27 @@
-Divisiblity of a Number(N) by 3 without using modulus(%) operator explicitly
+Basically for a number to be divisible by 3, the sum of 
+its digits of the number should be divisible by 3
 
+DECLARE rem = 0
+DECLARE num = 0
+DECLARE sum = 0
 
-step 1: START 
+print 'Enter the number'
+INPUT num
 
-step 2: DISPLAY Enter a number : 
-step 3: number = INPUT 
-step 4: READ number
-step 5: Initialize a to zero
-step 6: Initialize i to zero
+WHILE num > 0
+	rem = num % 10		
+					
 
-step 7.0: FOR (,i less than or equal to number,increment i every loop)
-       DO 
-     7.1: a=a+3
+	sum = sum + rem		 
+					
 
-     7.2: IF a = number THEN
-     7.3: break the loop
-     7.4: END IF
+	num = num /10		
+					
+END LOOP
 
-step 8: END FOR
-
-step 9.0: IF a = number THEN 
-     9.1: Print True  
-
-step 10.0: ELSE
-     10.1:  Print False 
-
-step 11: END IF
-
-step 12: STOP
+IF sum % 3 == 0 THEN
+ 	print 'True'
+ELSE
+	print 'False'
+END ELSE
+END IF
