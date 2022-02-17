@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pseudocode for printing Nth Fibonacci sequence.
 
 The Fibonacci numbers are the numbers in the following integer sequence.
@@ -37,3 +38,30 @@ step 9: END FOR
 step 10 : print c
 
 step 11 : STOP
+=======
+DECLARE first_number = 0		
+DECLARE second_number = 1
+DECLARE count = 0
+DECLARE no_of_terms = 0			
+
+print 'Enter the number of terms required'
+INPUT no_of_terms 				
+
+IF no_of_terms <= 0 THEN
+ 	print 'Enter a positive integer'
+ELSE
+	print 'Fibonacci Series'
+	WHILE count < no_of_terms 		
+		OUTPUT first_number		
+
+		succeeding_number = first_number + second_number	 
+									
+		
+		first_number = second_number		 
+		second_number = succeeding_number	
+		
+		count = count + 1			
+	END LOOP
+END ELSE
+END IF
+>>>>>>> master
