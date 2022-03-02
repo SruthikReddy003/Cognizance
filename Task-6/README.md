@@ -35,12 +35,17 @@ XD stands for **Experience Design**. It's for UX (user experience) designers and
 * *__Best product quality 2020__*
 * *__Most positively rated Website__*
 
+> Future Scopes
+
+*__1. Adding more special editions__*
+
+*__2. Comming out new new colours__*
+*__3. Having a patnership with most valuede brands__*
+
 > Our best Quotes
  
  * *__Success usually comes to those who are too busy to be looking for it.__*
  * *__There’s no shortage of remarkable ideas, what’s missing is the will to execute them.__*
  * *__I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.__*
 
-
- 
 
