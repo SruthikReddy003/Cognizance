@@ -25,3 +25,11 @@ We came up with this desicion because many of the people are intrested in luxery
 >Motivation
 
 *__Giving the best in product quality and coustomer happiness is the biggest motivation for any bussiness__*
+
+>Magnumopus
+
+* Best shoe selling website 2021
+* Best product quality 2020
+
+ 
+
