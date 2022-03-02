@@ -23,7 +23,7 @@ We came up with this desicion because many of the people are intrested in luxery
 **_As we all know that shoes define the person's  personality or even his/her mood on that day we make the product to be the best of all products_**
 >Aim
 
-We mainly aim at customer satisfaction and aim to provide top-notch services. We feel it our responsibility to make you more bright and confident ! We believe in our ideology “Good Hair, Good Mood” which is absolutely true, and you know it 😉!
+*__We mainly aim at customer satisfaction and aim to provide top-notch services. We feel it our responsibility to make you more bright and confident ! We believe in our ideology “Good Hair, Good Mood” which is absolutely true, and you know it 😉!__*
 
 >Motivation
 
