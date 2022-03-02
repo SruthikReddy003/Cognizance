@@ -35,8 +35,8 @@ XD stands for **Experience Design**. It's for UX (user experience) designers and
 | Awards | Rewards |
 | ----------- | ----------- |
 | *__Best shoe selling website 2021__* | __$300000__|
-| *__Most positively rated Website__* | __$500000__ |
-| *__Indias fashion mall__*|__$800000__|
+| *__Most positively rated Website2020__* | __$500000__ |
+| *__Indias fashion mall2021__*|__$800000__|
 
 
 
