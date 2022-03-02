@@ -20,4 +20,8 @@ XD stands for **Experience Design**. It's for UX (user experience) designers and
 **_We have the best collection of shoes which is completely original and was premium.
 We came up with this desicion because many of the people are intrested in luxery shoes_**
 
-**_As we all know that shoes define the person'ssomeone's personality or even his/her mood on that day_**
+**_As we all know that shoes define the person's  personality or even his/her mood on that day we make the product to be the best of all products_**
+
+>Motivation
+
+*__Giving the best in product quality and coustomer happiness is the biggest motivation for any bussiness__*
