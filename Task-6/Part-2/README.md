@@ -31,9 +31,14 @@ XD stands for **Experience Design**. It's for UX (user experience) designers and
 
 >Magnumopus
 
-* *__Best shoe selling website 2021__*
-* *__Best product quality 2020__*
-* *__Most positively rated Website__*
+
+| Awards | Rewards |
+| ----------- | ----------- |
+| *__Best shoe selling website 2021__* | __$300000__|
+| *__Most positively rated Website__* | __$500000__ |
+| *__Indias fashion mall__*|__$800000__|
+
+
 
 > Future Scopes
 
