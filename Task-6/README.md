@@ -2,9 +2,6 @@
 
 > Theme :
 > <b><span style="color: #2bbc8a; font-size: 1.3rem;">**Online marketing**</span></b>
-
-It refers to marketing techniques and strategies that use the Internet to target potential customersrefers to marketing techniques and strategies that use the Internet to target potential customers
-
 > Tools :
 > We have used **[Adobe Xd](https://www.adobe.com/in/products/xd.html)** to make this landing page.
 
@@ -16,7 +13,8 @@ Adobe XD is the Adobe prototyping tool for user experience and interaction desig
 
 XD stands for **Experience Design**. It's for UX (user experience) designers and UI (user interface) designers, etc. XD stands for Experience Design. It's for UX (user experience) designers and UI (user interface) designers, etc.
 
-# Shoe City 
+It refers to marketing techniques and strategies that use the Internet to target potential customersrefers to marketing techniques and strategies that use the Internet to target potential customers
+
 **_We have the best collection of shoes which is completely original and was premium.
 We came up with this desicion because many of the people are intrested in luxery shoes_**
 
