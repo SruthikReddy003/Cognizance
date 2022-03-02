@@ -16,7 +16,7 @@ We came up with this desicion because many of the people are intrested in luxery
 > Tools :
 > We have used **[Adobe Xd](https://www.adobe.com/in/products/xd.html)** to make this landing page.
 
-# About Adobe xd
+## About Adobe xd
 
 What is Adobe XD used for?
 
