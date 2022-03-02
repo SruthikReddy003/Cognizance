@@ -28,15 +28,15 @@ We came up with this desicion because many of the people are intrested in luxery
 
 >Magnumopus
 
-* Best shoe selling website 2021
-* Best product quality 2020
-* Most positively rated Website
+* *__Best shoe selling website 2021__*
+* *__Best product quality 2020__*
+* *__Most positively rated Website__*
 
 > Our best Quotes
  
- * Success usually comes to those who are too busy to be looking for it.
- * There’s no shortage of remarkable ideas, what’s missing is the will to execute them.
- * I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.
+ * *__Success usually comes to those who are too busy to be looking for it.__*
+ * *__There’s no shortage of remarkable ideas, what’s missing is the will to execute them.__*
+ * *__I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.__*
 
 
  
