@@ -16,9 +16,7 @@ Adobe XD is the Adobe prototyping tool for user experience and interaction desig
 
 XD stands for **Experience Design**. It's for UX (user experience) designers and UI (user interface) designers, etc. XD stands for Experience Design. It's for UX (user experience) designers and UI (user interface) designers, etc.
 
-<b><span style="color: #00f2ea; font-size: 3rem;">
-Shoe city</span></b>
-
+# Shoe City 
 **_We have the best collection of shoes which is completely original and was premium.
 We came up with this desicion because many of the people are intrested in luxery shoes_**
 
