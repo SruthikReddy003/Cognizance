@@ -47,7 +47,7 @@ XD stands for **Experience Design**. It's for UX (user experience) designers and
 
 *__2. Comming out with new colours__*
 
-*__3. Having a patnership with most valuede brands__*
+*__3. Having a patnership with most valued brands__*
 
 
 > <b><span style="color: #00fff8; font-size: 1.3rem;">**Our best Quotes:**</span></b>
