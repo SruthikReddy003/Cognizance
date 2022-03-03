@@ -40,8 +40,8 @@ XD stands for **Experience Design**. It's for UX (user experience) designers and
 | *__Indias fashion mall2021__*|__$800000__|
 
 
+> <b><span style="color: #ff4c4c; font-size: 1.3rem;">**Future Scopes:**</span></b>
 
-> Future Scopes
 
 *__1. Adding more special editions__*
 
