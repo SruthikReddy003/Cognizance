@@ -56,5 +56,5 @@ XD stands for **Experience Design**. It's for UX (user experience) designers and
 
 * <b><span style="color: #3bbc6a; font-size: 1.3rem;">**__There’s no shortage of remarkable ideas, what’s missing is the will to execute them.__**</span></b>
 
-* <b><span style="color: #3bbc6a; font-size: 1.3rem;">**__There’s no shortage of remarkable ideas, what’s missing is the will to execute them.__**</span></b>
+* <b><span style="color: #3bbc6a; font-size: 1.3rem;">**If you keep moving in the right direction you'll get your dream or something better.**</span></b>
  
