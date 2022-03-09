@@ -1,17 +1,7 @@
 # Making the 1st array
-a=[]
-n=int(input("Number of elements in array:\n"))
-print("Enter the elements of the First array")
-for i in range(0,n):
-   l=int(input())
-   a.append(l)
-# Making the 2nd array
-b=[]
-#n=int(input("Number of elements in array:\n"))
-print(("Enter the elements of the Second array\n"))
-for i in range(0,n):
-    l=int(input())
-    b.append(l)
+a=[1,2,3,4,5]
+b=[1,2,3,4,5]
+
  
 print("The Array's are\n")
 print(a)
